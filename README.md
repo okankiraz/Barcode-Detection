@@ -42,5 +42,4 @@ project/
 - Ensure the trained model file exists at `runs/train/barcode_detection4/weights/best.pt`.
 - The confidence threshold for predictions is set to 0.25 by default.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
