@@ -10,7 +10,8 @@ This project uses the YOLOv8 model to detect barcodes in images. The script proc
 
 ![image1](runs/train/barcode_detection4/results.png)
 
-![image2](runs/train/barcode_detection4/val_batch2_pred.png)
+![image2](runs/train/barcode_detection4/val_batch2_pred.jpg)
+
 ## Requirements
 To install the required dependencies, run:
 ```bash
