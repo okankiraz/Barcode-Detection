@@ -7,6 +7,9 @@ This project uses the YOLOv8 model to detect barcodes in images. The script proc
 - Processes all images in a folder.
 - Saves results with bounding boxes drawn around detected barcodes.
 
+
+![Alternatif Metin](runs/train/barcode_detection4/results.png)
+
 ## Requirements
 To install the required dependencies, run:
 ```bash
